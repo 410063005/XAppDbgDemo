@@ -3,6 +3,7 @@
 
     <string name="app_name">XAppDbgDemo</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="demo_activity_tv_pos_label">Toast位置：</string>
+    <string name="demo_activity_btn_show_toast">显示Toast</string>
+	<string name="demo_activity_tv_pos_default">系统缺省</string>
 </resources>
